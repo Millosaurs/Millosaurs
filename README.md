@@ -17,6 +17,10 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Millosaurs&layout=compact&theme=radical)
 
+## 📊 GitHub Contributions
+
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Millosaurs&theme=radical)
+
 ## 📌 Pinned Repositories
 
 Here are some of my notable projects:
@@ -35,6 +39,3 @@ Here are some of my notable projects:
 Feel free to reach out or explore more of my work:
 
 - GitHub: [Millosaurs](https://github.com/Millosaurs)
-
----
-
