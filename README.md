@@ -1,41 +1,71 @@
-# 👋 Hello, I'm Millosaurs!
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Millosaurs/count.svg?"  />
+</div>
 
-Welcome to my GitHub profile! I'm passionate about software development and love exploring new technologies. 🚀
+###
 
-## 🛠️ Technologies & Tools
+<h1 align="center">👋 Hello, I'm Millosaurs!</h1>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+###
 
-## 📈 GitHub Stats
+<h3 align="center">👩‍💻  About Me</h3>
 
-![Millosaurs's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Millosaurs&show_icons=true&theme=radical)
+###
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Millosaurs&layout=compact&theme=radical)
+<p align="left">Welcome to my GitHub profile! I'm passionate about software development and love exploring new technologies. 🚀</p>
 
-## 📊 GitHub Contributions
+###
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Millosaurs&theme=radical)
+<h3 align="center">🛠 Language and tools</h3>
 
-## 📌 Pinned Repositories
+###
 
-Here are some of my notable projects:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+</div>
 
-- [NoteBook](https://github.com/Millosaurs/NoteBook): A JavaScript-based application for note-taking. 📝
+###
 
-- [is-a-dev/register](https://github.com/Millosaurs/is-a-dev/register): Grab your own sweet-looking '.is-a.dev' subdomain. 🌐
+<h3 align="center">🔥   My Stats</h3>
 
-## 🏆 Achievements
+###
 
-- 🦈 **Pull Shark**: Recognized for submitting pull requests that were merged.  
-- 🎯 **YOLO**: Took the initiative to create a repository.  
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Millosaurs&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-## 📫 Let's Connect
+###
 
-Feel free to reach out or explore more of my work:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Millosaurs/Millosaurs/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Millosaurs/Millosaurs/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Millosaurs/Millosaurs/output/pacman-contribution-graph.svg">
+</picture>
 
-- GitHub: [Millosaurs](https://github.com/Millosaurs)
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
