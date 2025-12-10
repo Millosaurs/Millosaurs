@@ -57,9 +57,3 @@
 </picture>
 
 ###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5"![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31zaukr22bhuyatnbtoadl6iyf2a)  />
-</div>
-
-###
