@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Welcome to my GitHub profile! I'm passionate about software development and love exploring new technologies. 🚀</p>
+<p align="center">Welcome to my GitHub profile! I'm passionate about software development and love exploring new technologies. 🚀</p>
 
 ###
 
